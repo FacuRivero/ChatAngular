@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firechat-48574": {
+      "hosting": {
+        "fireChat": [
+          "firechat-48574"
+        ]
+      }
+    }
+  }
+}
